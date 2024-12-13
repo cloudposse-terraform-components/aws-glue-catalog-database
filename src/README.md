@@ -5,7 +5,7 @@ tags:
   - provider/aws
 ---
 
-# Component: `glue`
+# Component: `glue-catalog-database`
 
 This component provisions Glue catalog databases.
 
