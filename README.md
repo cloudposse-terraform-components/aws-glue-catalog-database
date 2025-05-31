@@ -71,7 +71,7 @@ components:
 | Name | Source | Version |
 |------|--------|---------|
 | <a name="module_glue_catalog_database"></a> [glue\_catalog\_database](#module\_glue\_catalog\_database) | cloudposse/glue/aws//modules/glue-catalog-database | 0.4.0 |
-| <a name="module_glue_iam_role"></a> [glue\_iam\_role](#module\_glue\_iam\_role) | cloudposse/stack-config/yaml//modules/remote-state | 1.5.0 |
+| <a name="module_glue_iam_role"></a> [glue\_iam\_role](#module\_glue\_iam\_role) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
 | <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | ../../account-map/modules/iam-roles | n/a |
 | <a name="module_this"></a> [this](#module\_this) | cloudposse/label/null | 0.25.0 |
 
