@@ -8,6 +8,7 @@ tags:
 # Component: `glue-catalog-database`
 
 This component provisions Glue catalog databases.
+## Usage
 
 ## Usage
 
@@ -31,7 +32,10 @@ components:
 ```
 
 <!-- prettier-ignore-start -->
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- prettier-ignore-end -->
+
+
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -102,12 +106,17 @@ components:
 | <a name="output_catalog_database_arn"></a> [catalog\_database\_arn](#output\_catalog\_database\_arn) | Catalog database ARN |
 | <a name="output_catalog_database_id"></a> [catalog\_database\_id](#output\_catalog\_database\_id) | Catalog database ID |
 | <a name="output_catalog_database_name"></a> [catalog\_database\_name](#output\_catalog\_database\_name) | Catalog database name |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-<!-- prettier-ignore-end -->
+<!-- markdownlint-restore -->
+
+
 
 ## References
 
-- [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components/tree/main/modules/glue/catalog-database) -
-  Cloud Posse's upstream component
+
+- [cloudposse-terraform-components](https://github.com/orgs/cloudposse-terraform-components/repositories) - Cloud Posse's upstream component
+
+
+
 
 [<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-glue-catalog-database&utm_content=)
+
