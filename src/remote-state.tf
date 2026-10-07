@@ -1,6 +1,6 @@
 module "glue_iam_role" {
   source  = "cloudposse/stack-config/yaml//modules/remote-state"
-  version = "1.8.0"
+  version = "1.8.1"
 
   component = var.glue_iam_component_name
 
